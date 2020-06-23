@@ -12,11 +12,10 @@
                    4. Open the “git-bash ” command prompt on your desktop. 
                    5. Change the directory to the place you’d like the files to be stored. You can do this by entering “cd” in the                               command line followed by the file path.
                    6. Once you’ve navigated to the desired location type “git clone” , then paste the link you copied in Step 3. 
-                      Once you submit the command you’ll see a folder being created in the location you specified in Step 5.
-                   7. In the created folder, you will see a zip file, extract the file
+                      Once you submit the command you’ll see a folder 'JUSTEAT' being created in the location you specified in Step 5.
 
 >How to execute the script:
-                   1. Click on the extract file and select "BatchFiles" folder.
+                   1. Double click on 'JUSTEAT'-->'JUSTEAT' and select "BatchFiles" folder.
                    2. Inside the folder, there are 2 batch files.
                    3. If you want to run the test on Chrome, please double click on Suite1_Chrome
                    4. Or else, if ypu want to run the test on Internet Explorer, double click on Suite1_IE

@@ -1,0 +1,1 @@
+call robot -i "GC" -d "..\results\chrome" "..\test\Suite1.robot"

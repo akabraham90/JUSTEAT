@@ -1,0 +1,1 @@
+call robot -i "IE" -d "..\results\internet explorer" "..\test\Suite1.robot"

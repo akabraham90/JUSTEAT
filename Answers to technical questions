@@ -1,0 +1,38 @@
+Q1.	How long did you spend on the technical test? What would you add to your solution if you had more time? If you didn't spend much time 
+on the technical test then use this as an opportunity to explain what you would add.
+
+A1. Around 90  minutes were spent on the developed script. Within this timeframe, I was able to run a script which would show the results
+of restaurants that were open at the time of search. If there was more time, I could have demonstrated results according to the availability
+of the restaurants at that time, for example, there could be restaurants taking pre orders for a later time, or restaurants that are 
+unavailable or aren't taking orders at that time.
+
+
+Q2.	What do you think is the most interesting trend in test automation?
+
+A2. Hyper automation is the way to the future, which combines a bunch of technologically advanced tools and processes like Artificial 
+Intelligence, Machine learning etc. to sophisticate the ever evolving automation industry. This should be acheived in collaboration with 
+humans, who can interpret data and make vital decisions with the information. 
+
+3.	How would you implement test automation in a legacy application? Have you ever had to do this?
+
+A3. I have never had a chance to work on the automation of legacy applications.
+
+4.	How would you improve the customer experience of the JUST EAT website?
+
+4A. a) The search options could have been more explorable with different search criteria like name of the restaurant or allowing the user to
+select a distance range from their current location, or the type of food they are looking for
+    b) A link to google maps and selection of restaurants from the map could have been given.
+    
+5.	Please describe yourself using JSON.
+
+5A. {
+      "firstname": "Akhil",
+      "lastname": "Abraham",
+      "age": 30,
+      "nationality": "Indian",
+      "currentcity": "Toronto",
+      "interests": ["Volunteer Work", "Traveling", "Sports"],
+      "strengths": ["Team Player", "Attention to Detail", "Dedicated", "Innovative", "Analytical"],
+      "dreams": ["Embrace technology to make this world a better place!"]
+    }
+

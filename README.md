@@ -3,12 +3,13 @@
 >Pre requisite :
                  Python must be available in the system, latest available version is (Python 3.8.3)
                  Chromedriver(for Chrome browser) and IE Driver Server (for Internet Explorer) must be available
+                 Git must be installed in the system (To Install - download Git from (https://git-scm.com/download/win))
                  
 >Installation Steps: 
                    1. Click on the link "https://github.com/akabraham90/JUSTEAT"
                    2. Select the green “Clone or download” button.
                    3. Select the clipboard icon to copy the link to your clipboard.
-                   4. Open the “Command Prompt” on your desktop. 
+                   4. Open the “git-bash ” command prompt on your desktop. 
                    5. Change the directory to the place you’d like the files to be stored. You can do this by entering “cd” in the                               command line followed by the file path.
                    6. Once you’ve navigated to the desired location type “git clone” , then paste the link you copied in Step 3. 
                       Once you submit the command you’ll see a folder being created in the location you specified in Step 5.
